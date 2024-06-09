@@ -3,6 +3,7 @@
 
 int main() {
     greet();
+    sam();
     return 0;
 }
 
