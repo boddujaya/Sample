@@ -1,0 +1,58 @@
+1. Basic Syntax:
+    >	Declarations, expressions, and statements.
+    >	Variables and data types (int, float, double, char, etc.).
+    >	Input and output using cin and cout.
+2. Control Flow:
+    >	Conditional statements (if, else if, else).
+    >	Looping constructs (for, while, do-while).
+    >	Switch statement for multiway branching.
+3. Functions:
+    >	Defining and calling functions.
+    >	Function parameters and return types.
+    >	Function overloading.
+4. Arrays and Strings:
+    >	Declaration and initialization of arrays.
+    >	Manipulating arrays and strings.
+    >	Multidimensional arrays.
+5. Pointers and References:
+    >	Memory addresses and pointers.
+    >	Pointer arithmetic.
+    >	References and reference variables.
+6. Object-Oriented Programming (OOP):
+    >	Classes and objects.
+    >	Encapsulation, inheritance, and polymorphism.
+    >	Constructors and destructors.
+    >	Operator overloading.
+7. Memory Management:
+    >	Dynamic memory allocation (new and delete).
+    >	Smart pointers (e.g., std::unique_ptr, std::shared_ptr).
+8. Standard Template Library (STL):
+    >	Containers (vectors, lists, queues, stacks, etc.).
+    >	Algorithms (sorting, searching, etc.).
+    >	Iterators.
+9. Exception Handling:
+    >	try, catch, and throw for handling exceptions.
+    >	RAII (Resource Acquisition Is Initialization).
+10. File I/O:
+    >	Reading from and writing to files.
+11. Templates and Generic Programming:
+    >	Function templates and class templates.
+    >	Template specialization.
+12. Concurrency:
+    >	Threading and basic concurrency features.
+13. Lambda Expressions:
+    >	Anonymous functions for concise code.
+14. Namespace:
+    >	Organizing code into namespaces.
+15. Preprocessor Directives:
+    >	#include, #define, and other preprocessor commands.
+16. Type Casting:
+    >	Implicit and explicit type casting.
+17. Enums and Constants:
+    >	Enumerations and constant variables.
+18. C++ Standard Library (STL):
+    >	A comprehensive collection of functions and classes.
+19. C++11, C++14, C++17, C++20 Features:
+    >	Modern features introduced in various C++ standards.
+20. Compile-Time Programming:
+    >	constexpr and template metaprogramming.
